@@ -1,0 +1,27 @@
+.ernesto { 
+	position:absolute; left:200px; top:0px;
+}
+.logo {
+	position: relative;
+	left: 145px;
+	top: 25px
+}
+.tissot {
+	position: relative;
+	left: 14px;
+	top: 102px;
+}
+.p {
+	 position:absolute; 
+	 left:200px;
+	 top:145px;
+	 font-family:impact;
+	 font-size:19px;
+	 background-color:white;
+	 
+}
+.p2 {
+	 position:absolute; 
+	 left:200px;
+	 top:190px;
+}
